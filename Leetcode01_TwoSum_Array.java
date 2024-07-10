@@ -1,5 +1,5 @@
 import java.util.*;
-public class Leetcode01_Array{
+public class Leetcode01_TwoSum_Array{
 
     public static int[] twoSum(int arr[],int target){
         for(int i =0;i<arr.length;i++){
